@@ -1,0 +1,40 @@
+site_name: PTA Documentation
+site_url: https://example.com/
+nav:
+  - Home: index.md
+  - About: about.md
+  - Getting Started: getting_started.md
+  - Template: template.md
+  - Dashboard: documentation_features/dashboard.md
+  - Management: documentation_features/management.md
+  - Test History: documentation_features/history.md
+  - WPTAS Form: documentation_features/wptas.md
+  - ABS Form: documentation_features/abs.md
+extra_css:
+  - stylesheets/extra.css
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlgiht
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: custom
+      accent: purple
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: custom
+      accent: line

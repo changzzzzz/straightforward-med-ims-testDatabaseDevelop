@@ -1,0 +1,6 @@
+# The Project
+Post Traumatic Amnesia (PTA) refers to the phase of initial recovery after a Traumatic Brain Injury (TBI), and encompasses many symptoms, including memory loss, confusion and disorientation. It is necessary for healthcare staff to identify and track PTA amongst their TBI patients, as this will enable appropriate treatment and a greater understanding of the patient’s health. Identification and monitoring of PTA is currently carried out via paper-based tests, and clinicians are required to handwrite results, an extremely inefficient process that potentially leads to errors, due to a lack of legibility or language barriers.
+
+Digitising these assessments will provide healthcare staff with a more efficient and effective process of treating PTA, and will also provide clinicians with more advanced insights into their patients. The introduction of digital tests opens doors to automation, extensive patient data, a compact storage system and a friendlier user experience, all of which paper-based tests struggle to produce. 
+
+This repository houses the application containing these assessments.
