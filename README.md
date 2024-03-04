@@ -1,5 +1,9 @@
 ![banner](/public/assets/screenshots/banner.jpg)
 
+## This is a student group project as a Monash university computer science last year porject, the author includes Amogha, Anant, Zihan, Yang and Joseph.
+## The original version is located in Monash gitlab. We base on the basic template and redesign the function and UI.
+
+
 ## Simplified CSU-Clinic's IMS
 
 Note: This project is a school requirement and is intended for showcasing purposes only. It is not a complete and fully functional system for production use.
